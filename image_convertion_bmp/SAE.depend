@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672778473 source:c:\users\akira\desktop\sae2-main\sae\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"outils.h"
+
+1672778708 c:\users\akira\desktop\sae2-main\sae\outils.h
+
